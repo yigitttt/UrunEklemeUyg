@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+Vue.js kullanarak yaptığım,mağazalar ve restoranlar için kullanılabilecek ürün ekleme uygulaması.//
+The product adding application that I made using Vue.js, which can be used for shops and restaurants.
+
 ## Build Setup
 
 ``` bash
